@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Tshering"
+    given-names: "Ugyen Samdrup"
+title: "haar-hilfer-hadamard"
+version: "v1.0"
+doi: "10.5281/zenodo.22707787"
+date-released: 2026-09-11
