@@ -1,5 +1,7 @@
 # Haar wavelet collocation — reference implementation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22707787.svg)](https://doi.org/10.5281/zenodo.22707787)
+
 Companion code to `Paper2_Haar_Coupled_HilferHadamard_v2.docx`, §6.
 
 ## Files
